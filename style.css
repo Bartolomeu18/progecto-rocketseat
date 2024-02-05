@@ -1,0 +1,12 @@
+@charset "utf-8";
+:root{
+--paragrafo: darkblue;
+}
+p{
+    color:var(--paragrafo) ;
+    
+}
+ul{
+li
+    
+}
