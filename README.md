@@ -6,9 +6,9 @@
 <p align="center">
 <img src="./img/mobile (1).png" alt="o meu progecto desenvolvido com os conhecimento transmitido pela rocketseat" width="100%"></p>
 
-## :rocket:  Tecnologias
+   ## :rocket:  Tecnologias
 
-Esse projecto foi desenvolvid com as seguintes tecnologias:
+                                             Esse projecto foi desenvolvid com as seguintes tecnologias:
 
 --HTML e CSS
 <br>
