@@ -8,7 +8,7 @@
 
    ## :rocket:  Tecnologias
 
-                                             Esse projecto foi desenvolvid com as seguintes tecnologias:
+                              Esse projecto foi desenvolvid com as seguintes tecnologias:
 
 --HTML e CSS
 <br>
