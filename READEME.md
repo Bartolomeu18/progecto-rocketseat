@@ -11,7 +11,9 @@
 Esse projecto foi desenvolvid com as seguintes tecnologias:
 
 --HTML e CSS
+<br>
 --Javascript 
+<br>
 --Git e Github
 
 ## :mortar_board: Progecto
